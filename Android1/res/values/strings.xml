@@ -2,6 +2,8 @@
 <resources>
 
     <string name="hello">Hello World, Android1Activity!</string>
-    <string name="app_name">Android1</string>
+    <string name="app_name">Bouncer</string>
+    <string name="startButton_str">START!!!</string>
+    <string name="exitButton_str">Exit</string>
 
 </resources>
