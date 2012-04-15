@@ -6,6 +6,7 @@ import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 
+// Someday, I'll make this class more generic and inherit from it
 public class BitBlock{
 	public Bitmap bitmap;
 	public float x, y;
